@@ -1,6 +1,3 @@
-# Pingsweep
-A script to find all the available IPs on the same subnet/network.
-
 # Ping Sweep Script
 
 This is a simple Bash script to perform a ping sweep on a given subnet. It sends ICMP echo requests to all IP addresses in the specified subnet and reports the IP addresses that respond.
