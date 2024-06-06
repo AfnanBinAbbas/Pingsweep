@@ -31,5 +31,5 @@ The script will output the IP addresses of hosts that respond to the ping reques
 
 ## License
 
-This script is provided as-is, without any warranty. Use at your own risk. Ensure compliance with your local laws and network policies when using this script.
+Refer to the License provided.
 ```
