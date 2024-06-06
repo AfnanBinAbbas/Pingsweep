@@ -1,6 +1,6 @@
 # Ping Sweep Script
 
-This is a simple Bash script to perform a ping sweep on a given subnet. It sends ICMP echo requests to all IP addresses in the specified subnet and reports the IP addresses that respond.
+This is a simple Bash script to perform a ping sweep on a given subnet. It sends ICMP echo requests to all IP addresses in the specified subnet and reports the IP addresses that respond. Good tool while doing pentesting...
 
 ## Usage
 
