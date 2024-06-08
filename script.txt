@@ -1,7 +1,7 @@
 #!/bin/bash
 
-banner = f"""	
-	
+banner=$(cat <<"EOF"
+
   _____ _                                         
  |  __ (_)                                        
  | |__) | _ __   __ _ _____      _____  ___ _ __  
@@ -11,9 +11,12 @@ banner = f"""
                  __/ |                     | |    
                 |___/                      |_|    
 
-	
 	                                		-by Afnan	 
-                                                 v1.0.0                          """
+                                                 v1.0.0                          
+EOF
+)
+
+echo "$banner"
 
 if [ "$1" = "" ]; then
 
