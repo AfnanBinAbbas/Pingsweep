@@ -12,6 +12,4 @@ else
 
   done
 
-  echo "scan completed successfully!"
-
 fi
